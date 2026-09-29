@@ -8,10 +8,10 @@ AI/ML Engineer with 5+ years in healthcare and enterprise machine learning. I bu
 
 #### 🔧 Featured projects
 
-**[CareAgent](https://github.com/nihitha-i/care-agent): a secure tool-using healthcare agent**
+**[CareAgent](https://github.com/nihitha-i/care-agent): a secure tool-using healthcare agent**<br>
 LangGraph agent acting through a 5-tool MCP server, with human approval for every write, server-side access control, audit logging, OpenTelemetry tracing and CI. A 20-task evaluation (3 runs) guided fixes that raised task success from **75% to 95%**, with **zero unrequested actions**.
 
-**[MediRAG](https://github.com/nihitha-i/agentic-rag): agentic vs. baseline RAG on Medicare policy**
+**[MediRAG](https://github.com/nihitha-i/agentic-rag): agentic vs. baseline RAG on Medicare policy**<br>
 A 5-node LangGraph agent vs. a single-pass baseline over 1,738 chunks of CMS documents, compared with a GPT-4o evaluation harness over repeated trials. Result: the simpler baseline was **more faithful (93% vs. 83%) and 4× faster**, found only after fixing three flaws in the evaluation itself.
 
 ---
